@@ -1,6 +1,6 @@
 # SC1015 Mini-Project :  Analysis on Video Game Sales By FDDB Team 10
 
-# Table of Contents
+# Table of Contents 
 - Overview
 - Requirements 
 - Data preparation and cleaning
@@ -55,3 +55,5 @@ Out of the 3 models, XGBoost is the most successful in predicting video game sal
 # References
 - https://www.kaggle.com/datasets/gregorut/videogamesales/data
 - https://www.kaggle.com/datasets/deepcontractor/top-video-games-19952021-metacritic
+- https://machinelearningmastery.com/xgboost-for-regression/
+- https://towardsdatascience.com/random-forest-regression-5f605132d19d
